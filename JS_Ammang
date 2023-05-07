@@ -42,7 +42,8 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("emir", "Blue", " Red Hoodie", "Diamond Chain");
+mintNFT("Chill Emir", "Brown Eyes", "Oversized Black Hoodie", "Silver Chain");
+mintNFT("Party Emir", "Cool Shades", "LV Varsity Jacket", "Diamond Chain");
+mintNFT("Formal Emir", "Glasses", "Suit", "Gold Chain");
 listNFTs();
 getTotalSupply()
-
